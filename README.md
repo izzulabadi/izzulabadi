@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/izzulabadi">
-    <img src="<img src="https://komarev.com/ghpvc/?username=izzulabadi&label=Profile%20Views&color=blue&style=flat&v=1" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=izzulabadi&label=Profile%20Views&color=blue&style=flat&v=1" ... />
   </a>
 </p>
 
