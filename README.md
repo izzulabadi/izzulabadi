@@ -10,11 +10,6 @@
   Seorang <b>Full-Stack Developer</b> yang berdomisili di Pati, Jawa Tengah. Saya memiliki pengalaman lebih dari 4 tahun dalam pengembangan web dan pernah bekerja sebagai IT Specialist di Papua. Saat ini fokus membangun solusi digital berbasis SaaS.
 </p>
 
-<p align="center">
-  <a href="https://github.com/izzulabadi">
-    <img src="https://komarev.com/ghpvc/?username=izzulabadi&label=Profile%20Views&color=blue&style=flat&v=1" ... />
-  </a>
-</p>
 
 ---
 
